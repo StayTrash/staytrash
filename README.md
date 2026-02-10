@@ -30,35 +30,6 @@ I’m a developer who loves building **scalable systems**, improving **performan
 
 ---
 
-## 🚀 Featured Projects
-
-### **Tutorly**
-> AI-powered voice-based tutoring platform  
-**Tech:** Next.js, TypeScript, Supabase, VAPI SDK, Tailwind CSS  
-- Built 30+ voice-interactive learning sessions
-- Implemented authentication & payments using **Clerk**
-- Real-time sync, session persistence, and error tracking via **Sentry**
-
----
-
-### **Linear Flow**
-> Job application tracking & workflow management tool  
-**Tech:** Next.js, Redux Toolkit, NextAuth, MongoDB  
-- Kanban-style drag-and-drop workflow across 5 hiring stages
-- Global state management with minimal re-renders
-- Google OAuth 2.0 authentication with protected API routes
-
----
-
-### **Scrubi**
-> Rich text editor + interactive drawing canvas  
-**Tech:** React, Convex, Excalidraw Extension  
-- Combined text editing with drawing tools (10+ shapes & freehand)
-- Secure authentication with **Kinde**
-- Subscription model with usage-based upgrades
-
----
-
 ## 🛠 Tech Stack
 
 **Languages:**  
