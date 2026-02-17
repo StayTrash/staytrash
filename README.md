@@ -3,7 +3,7 @@
 🚀 Software Engineer | Full-Stack & Backend Focused  
 🎓 B.Tech in Electronics & Communication Engineering @ IIIT Ranchi  
 📍 Ranchi, India  
-💼 Open to SDE / SWE Internships & Backend Roles  
+💼 Open to SDE / SWE Internships & Backend Roles
 
 I’m a developer who loves building **scalable systems**, improving **performance**, and solving **real-world problems**. I enjoy working across the stack, with a strong focus on backend logic, system design, and clean architecture.
 
@@ -50,7 +50,6 @@ Git · GitHub · Docker · Node.js · n8n · Postman · VS Code · IntelliJ
 ## 📊 Problem Solving & Achievements
 - Solved **500+ DSA problems** on LeetCode, Codeforces & CodeChef
 - **Codeforces Pupil** — Max Rating: **1271**
-- Global Rank **3894** in Codeforces Round 1023 (Div. 2)
 
 ---
 
