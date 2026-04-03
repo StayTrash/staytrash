@@ -18,6 +18,9 @@ I’m a developer who loves building **scalable systems**, improving **performan
 ---
 
 ## 💼 Experience
+### **Software Engineer Intern** — *Career Plan B*  
+📅 Apr 2026 – Present | 🌍 Gurugram, Haryana, India
+
 
 ### **Software Engineer Intern** — *Relish*  
 📅 Jun 2025 – Dec 2025 | 🌍 Remote
