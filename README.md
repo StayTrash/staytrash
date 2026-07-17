@@ -17,13 +17,8 @@ I’m a developer who loves building **scalable systems**, improving **performan
 
 ---
 
-## 💼 Experience
-### **Software Engineer Intern** — *Career Plan B*  
-📅 Apr 2026 – Present | 🌍 Gurugram, Haryana, India
-
-
 ### **Software Engineer Intern** — *Relish*  
-📅 Jun 2025 – Dec 2025 | 🌍 Remote
+📅 Jun 2025 – Apr 2026 | 🌍 Remote
 
 - Worked across **6 repositories**, handling **125+ PRs** and shipping **22k+ lines** of scalable production code
 - Improved frontend performance by **35%** using lazy loading, code splitting, and caching
