@@ -33,7 +33,7 @@ I’m a developer who loves building **scalable systems**, improving **performan
 Java · JavaScript · TypeScript · SQL · HTML · CSS  
 
 **Frameworks & Libraries:**  
-Next.js · React · Express.js · Redux Toolkit · Tailwind CSS · Shadcn UI  
+Spring Boot, Spring, Next.js · React · Express.js · Redux Toolkit · Tailwind CSS · Shadcn UI  
 
 **Databases & Cloud:**  
 PostgreSQL · MongoDB · MySQL · Supabase · Prisma · Convex  
